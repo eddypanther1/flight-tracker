@@ -1,0 +1,56 @@
+{
+  "pagination": {
+    "limit": 1,
+    "offset": 0,
+    "count": 1,
+    "total": 81556
+  },
+  "data": [
+    {
+      "flight_date": "2025-11-23",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Aalborg",
+        "timezone": "Europe/Copenhagen",
+        "iata": "AAL",
+        "icao": "EKYT",
+        "terminal": null,
+        "gate": null,
+        "delay": 10,
+        "scheduled": "2025-11-23T08:00:00+00:00",
+        "estimated": "2025-11-23T08:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Sur Reina Sofia",
+        "timezone": "Atlantic/Canary",
+        "iata": "TFS",
+        "icao": "GCTS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-11-23T12:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Sunclass Airlines",
+        "iata": "DK",
+        "icao": "VKG"
+      },
+      "flight": {
+        "number": "1094",
+        "iata": "DK1094",
+        "icao": "VKG1094",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    }
+  ]
+}
